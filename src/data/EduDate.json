@@ -1,0 +1,44 @@
+[
+  {
+    "Education": "Bachelor of Information Science and Engineering",
+    "details": [
+      {
+        "Organization": "SDM Institute of Technology Ujire",
+        "year": "2019 - 2023",
+        "description": [
+          {
+            "paragraph": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Education": "12th Grade",
+    "details": [
+      {
+        "Organization": "Viveka Pre-University College Kota",
+        "year": "2017 - 2019",
+        "description": [
+          {
+            "paragraph": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Education": "10th Grade",
+    "details": [
+      {
+        "Organization": "Sri Venkatramana English Medium School Kundapura",
+        "year": "2016 - 2018",
+        "description": [
+          {
+            "paragraph": ""
+          }
+        ]
+      }
+    ]
+  }
+]

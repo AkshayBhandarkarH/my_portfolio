@@ -1,0 +1,58 @@
+[
+  {
+    "worktype": "Full-Time",
+    "details": [
+      {
+        "title": "Astrikos Consulting Pvt Ltd",
+        "date": "01/12/2023 - 18/03/2024",
+        "description": [
+          {
+            "paragraph": "Working as Junior Product Development Engineer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "worktype": "Internship",
+    "details": [
+      {
+        "title": "Astrikos Consulting Pvt Ltd",
+        "date": "18/12/2023 - 18/03/2024",
+        "description": [
+          {
+            "paragraph": "Successfully completed the internship experience as a Intern developer in the above organization learnt many frontend development technologies that upskilled me to become proficient in web development."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "worktype": "Internship",
+    "details": [
+      {
+        "title": "Zephyr Technologies Pvt Ltd",
+        "date": "02/06/2023 - 28/08/2023",
+        "description": [
+          {
+            "paragraph": "Successfully completed the internship program on various concepts of Machine Learning and Artificial Intelligence.\nAs part of the program, created an ML model - Simple Linear regression and Random Forest regression.\nUsed the dataset to predict the accuracy of data based on various instances.\nLearned about various measuring metrics like R-Squared, Root Mean Square,Cross -Validation, etc.\nLearned about the correlation of various dataset attributes using Heatmap to locate the impact on prediction of models.\nAI prediction methodology used to remove outliers and increase accuracy of models"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "worktype": "Internship",
+    "details": [
+      {
+        "title": "Edgate Technologies Pvt Ltd",
+        "date": "02/06/2022 - 28/06/2022",
+        "description": [
+          {
+            "paragraph": "Successfully completed the internship Program on Embedded System Design and the Internet of Robotic Things.\nEmbedded system models were coded using a tivaware microcontroller and C Programming Language.\nDesigned a fully automated robot car using a microcontroller and coded with the usage of Energia IDE.\nAll Car controls were automated using blynk android application to steer and direct the wheeling"
+          }
+        ]
+      }
+    ]
+  }
+]
