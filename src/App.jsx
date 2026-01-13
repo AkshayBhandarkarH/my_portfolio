@@ -9,7 +9,7 @@ import Skills from "./Components/Skills";
 function App() {
   return (
     <div>
-      <Routes>
+      <Routes basename="/my_portfolio">
         <Route path="/" element={<Home />}></Route>
         <Route path="/Home" element={<Home />}></Route>
         <Route path="/Skills" element={<Skills />}></Route>
